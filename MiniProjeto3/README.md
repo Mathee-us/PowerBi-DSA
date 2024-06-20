@@ -34,7 +34,7 @@ Atividade prática do Capítulo 6 do curso Microsoft Power BI Para Business Inte
     
 5.  Qual o total de funcionários por função?  
 
- **R:638 Cientistas de Dados, 246 Analistas de Dados, 176 Engenheiros de IA, 139 Arquitetos de Dados, 125 Engenheiros de Dados, 76 Engenheiros Analíticos.**
+ **R: 638 Cientistas de Dados, 246 Analistas de Dados, 176 Engenheiros de IA, 139 Arquitetos de Dados, 125 Engenheiros de Dados, 76 Engenheiros Analíticos.**
     
 6.  Qual o percentual de funcionários disponíveis para fazer hora extra?  
 
