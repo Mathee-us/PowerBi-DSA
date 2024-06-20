@@ -9,7 +9,7 @@ Atividade prática do Capítulo 6 do curso Microsoft Power BI Para Business Inte
 ![Gráfico de Vendas](images/pb1.png)
 
 
-## Promoção e não promoçãp
+## Promoção e não promoção
 ![Gráfico de Vendas](images/pb2.png)
 
 
@@ -17,7 +17,7 @@ Atividade prática do Capítulo 6 do curso Microsoft Power BI Para Business Inte
 
 
 1.  Qual o total de funcionários atualmente na empresa? 
-**R:1400**
+### **R:1400**
     
 2.  Qual o tempo médio de experiência dos funcionários (em anos)? 
 **R:11.**
