@@ -18,15 +18,15 @@ Atividade prática do Capítulo 6 do curso Microsoft Power BI Para Business Inte
 
 1.  Qual o total de funcionários atualmente na empresa?  
 
- **R:1400**
+ **R: 1400**
     
 2.  Qual o tempo médio de experiência dos funcionários (em anos)?  
 
-**R:11.**
+**R: 11.**
     
 3.  Qual o total e percentual de funcionários do gênero masculino e feminino?  
 
-**R:Masculino: 838 e 59,86 %; Feminino: 562 e 40,41%.**
+**R: Masculino: 838 e 59,86 %; Feminino: 562 e 40,41%.**
     
 4.  Qual a média salarial mensal?  
 
@@ -38,9 +38,9 @@ Atividade prática do Capítulo 6 do curso Microsoft Power BI Para Business Inte
     
 6.  Qual o percentual de funcionários disponíveis para fazer hora extra?  
 
-**R:28,43%**
+**R: 28,43%**
     
 7.  Qual o nível de envolvimento dos funcionários no trabalho considerando 4 categorias: Ruim, Baixo, Médio e Alto? 
 
-**R:79 (5,64%) para Ruim, 356 (25,43%) para Baixo, 826 (59%) para Médio, 139 (9,93 %) para Alto.** 
+**R: 79 (5,64%) para Ruim, 356 (25,43%) para Baixo, 826 (59%) para Médio, 139 (9,93 %) para Alto.** 
     
